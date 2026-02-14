@@ -1,0 +1,991 @@
+bulbasaur/False/green/generation-i/grassland/base/['grass', 'poison']/64/7 
+ivysaur/False/green/generation-i/grassland/middle/['grass', 'poison']/142/10 
+venusaur/False/green/generation-i/grassland/final/['grass', 'poison']/236/20 
+charmander/False/red/generation-i/mountain/base/['fire']/62/6 
+charmeleon/False/red/generation-i/mountain/middle/['fire']/142/11 
+charizard/False/red/generation-i/mountain/final/['fire', 'flying']/240/17 
+squirtle/False/blue/generation-i/waters-edge/base/['water']/63/5 
+wartortle/False/blue/generation-i/waters-edge/middle/['water']/142/10 
+blastoise/False/blue/generation-i/waters-edge/final/['water']/239/16 
+caterpie/False/green/generation-i/forest/base/['bug']/39/3 
+metapod/False/green/generation-i/forest/middle/['bug']/72/7 
+butterfree/False/white/generation-i/forest/final/['bug', 'flying']/178/11 
+weedle/False/brown/generation-i/forest/base/['bug', 'poison']/39/3 
+kakuna/False/yellow/generation-i/forest/middle/['bug', 'poison']/72/6 
+beedrill/False/yellow/generation-i/forest/final/['bug', 'poison']/178/10 
+pidgey/False/brown/generation-i/forest/base/['normal', 'flying']/50/3 
+pidgeotto/False/brown/generation-i/forest/middle/['normal', 'flying']/122/11 
+pidgeot/False/brown/generation-i/forest/final/['normal', 'flying']/216/15 
+rattata/False/purple/generation-i/grassland/base/['normal']/51/3 
+raticate/False/brown/generation-i/grassland/final/['normal']/145/7 
+spearow/False/brown/generation-i/rough-terrain/base/['normal', 'flying']/52/3 
+fearow/False/brown/generation-i/rough-terrain/final/['normal', 'flying']/155/12 
+ekans/False/purple/generation-i/grassland/base/['poison']/58/20 
+arbok/False/purple/generation-i/grassland/final/['poison']/157/35 
+pikachu/False/yellow/generation-i/forest/middle/['electric']/112/4 
+raichu/False/yellow/generation-i/forest/final/['electric']/218/8 
+sandshrew/False/yellow/generation-i/rough-terrain/base/['ground']/60/6 
+sandslash/False/yellow/generation-i/rough-terrain/final/['ground']/158/10 
+nidoran-f/False/blue/generation-i/grassland/base/['poison']/55/4 
+nidorina/False/blue/generation-i/grassland/middle/['poison']/128/8 
+nidoqueen/False/blue/generation-i/grassland/final/['poison', 'ground']/227/13 
+nidoran-m/False/purple/generation-i/grassland/base/['poison']/55/5 
+nidorino/False/purple/generation-i/grassland/middle/['poison']/128/9 
+nidoking/False/purple/generation-i/grassland/final/['poison', 'ground']/227/14 
+clefairy/False/pink/generation-i/mountain/middle/['fairy']/113/6 
+clefable/False/pink/generation-i/mountain/final/['fairy']/217/13 
+vulpix/False/brown/generation-i/grassland/base/['fire']/60/6 
+ninetales/False/yellow/generation-i/grassland/final/['fire']/177/11 
+jigglypuff/False/pink/generation-i/grassland/middle/['normal', 'fairy']/95/5 
+wigglytuff/False/pink/generation-i/grassland/final/['normal', 'fairy']/196/10 
+zubat/False/purple/generation-i/cave/base/['poison', 'flying']/49/8 
+golbat/False/purple/generation-i/cave/middle/['poison', 'flying']/159/16 
+oddish/False/blue/generation-i/grassland/base/['grass', 'poison']/64/5 
+gloom/False/blue/generation-i/grassland/middle/['grass', 'poison']/138/8 
+vileplume/False/red/generation-i/grassland/middle/['grass', 'poison']/221/12 
+paras/False/red/generation-i/forest/base/['bug', 'grass']/57/3 
+parasect/False/red/generation-i/forest/final/['bug', 'grass']/142/10 
+venonat/False/purple/generation-i/forest/base/['bug', 'poison']/61/10 
+venomoth/False/purple/generation-i/forest/final/['bug', 'poison']/158/15 
+diglett/False/brown/generation-i/cave/base/['ground']/53/2 
+dugtrio/False/brown/generation-i/cave/final/['ground']/149/7 
+meowth/False/yellow/generation-i/urban/base/['normal']/58/4 
+persian/False/yellow/generation-i/urban/middle/['normal']/154/10 
+psyduck/False/yellow/generation-i/waters-edge/base/['water']/64/8 
+golduck/False/blue/generation-i/waters-edge/final/['water']/175/17 
+mankey/False/brown/generation-i/mountain/base/['fighting']/61/5 
+primeape/False/brown/generation-i/mountain/middle/['fighting']/159/10 
+growlithe/False/brown/generation-i/grassland/base/['fire']/70/7 
+arcanine/False/brown/generation-i/grassland/final/['fire']/194/19 
+poliwag/False/blue/generation-i/waters-edge/base/['water']/60/6 
+poliwhirl/False/blue/generation-i/waters-edge/middle/['water']/135/10 
+poliwrath/False/blue/generation-i/waters-edge/middle/['water', 'fighting']/230/13 
+abra/False/brown/generation-i/urban/base/['psychic']/62/9 
+kadabra/False/brown/generation-i/urban/middle/['psychic']/140/13 
+alakazam/False/brown/generation-i/urban/final/['psychic']/225/15 
+machop/False/gray/generation-i/mountain/base/['fighting']/61/8 
+machoke/False/gray/generation-i/mountain/middle/['fighting']/142/15 
+machamp/False/gray/generation-i/mountain/final/['fighting']/227/16 
+bellsprout/False/green/generation-i/forest/base/['grass', 'poison']/60/7 
+weepinbell/False/green/generation-i/forest/middle/['grass', 'poison']/137/10 
+victreebel/False/green/generation-i/forest/final/['grass', 'poison']/221/17 
+tentacool/False/blue/generation-i/sea/base/['water', 'poison']/67/9 
+tentacruel/False/blue/generation-i/sea/final/['water', 'poison']/180/16 
+geodude/False/brown/generation-i/mountain/base/['rock', 'ground']/60/4 
+graveler/False/brown/generation-i/mountain/middle/['rock', 'ground']/137/10 
+golem/False/brown/generation-i/mountain/final/['rock', 'ground']/223/14 
+ponyta/False/yellow/generation-i/grassland/base/['fire']/82/10 
+rapidash/False/yellow/generation-i/grassland/final/['fire']/175/17 
+slowpoke/False/pink/generation-i/waters-edge/base/['water', 'psychic']/63/12 
+slowbro/False/pink/generation-i/waters-edge/middle/['water', 'psychic']/172/16 
+magnemite/False/gray/generation-i/rough-terrain/base/['electric', 'steel']/65/3 
+magneton/False/gray/generation-i/rough-terrain/middle/['electric', 'steel']/163/10 
+farfetchd/False/brown/generation-i/grassland/base/['normal', 'flying']/132/8 
+doduo/False/brown/generation-i/grassland/base/['normal', 'flying']/62/14 
+dodrio/False/brown/generation-i/grassland/final/['normal', 'flying']/165/18 
+seel/False/white/generation-i/sea/base/['water']/65/11 
+dewgong/False/white/generation-i/sea/final/['water', 'ice']/166/17 
+grimer/False/purple/generation-i/urban/base/['poison']/65/9 
+muk/False/purple/generation-i/urban/final/['poison']/175/12 
+shellder/False/purple/generation-i/sea/base/['water']/61/3 
+cloyster/False/purple/generation-i/sea/final/['water', 'ice']/184/15 
+gastly/False/purple/generation-i/cave/base/['ghost', 'poison']/62/13 
+haunter/False/purple/generation-i/cave/middle/['ghost', 'poison']/142/16 
+gengar/False/purple/generation-i/cave/final/['ghost', 'poison']/225/15 
+onix/False/gray/generation-i/cave/base/['rock', 'ground']/77/88 
+drowzee/False/yellow/generation-i/grassland/base/['psychic']/66/10 
+hypno/False/yellow/generation-i/grassland/final/['psychic']/169/16 
+krabby/False/red/generation-i/waters-edge/base/['water']/65/4 
+kingler/False/red/generation-i/waters-edge/final/['water']/166/13 
+voltorb/False/red/generation-i/urban/base/['electric']/66/5 
+electrode/False/red/generation-i/urban/final/['electric']/172/12 
+exeggcute/False/pink/generation-i/forest/base/['grass', 'psychic']/65/4 
+exeggutor/False/yellow/generation-i/forest/final/['grass', 'psychic']/186/20 
+cubone/False/brown/generation-i/mountain/base/['ground']/64/4 
+marowak/False/brown/generation-i/mountain/final/['ground']/149/10 
+hitmonlee/False/brown/generation-i/urban/middle/['fighting']/159/15 
+hitmonchan/False/brown/generation-i/urban/middle/['fighting']/159/14 
+lickitung/False/pink/generation-i/grassland/base/['normal']/77/12 
+koffing/False/purple/generation-i/urban/base/['poison']/68/6 
+weezing/False/purple/generation-i/urban/final/['poison']/172/12 
+rhyhorn/False/gray/generation-i/rough-terrain/base/['ground', 'rock']/69/10 
+rhydon/False/gray/generation-i/rough-terrain/middle/['ground', 'rock']/170/19 
+chansey/False/pink/generation-i/urban/middle/['normal']/395/11 
+tangela/False/blue/generation-i/grassland/base/['grass']/87/10 
+kangaskhan/False/brown/generation-i/grassland/no-evolution/['normal']/172/22 
+horsea/False/blue/generation-i/sea/base/['water']/59/4 
+seadra/False/blue/generation-i/sea/middle/['water']/154/12 
+goldeen/False/red/generation-i/waters-edge/base/['water']/64/6 
+seaking/False/red/generation-i/waters-edge/final/['water']/158/13 
+staryu/False/brown/generation-i/sea/base/['water']/68/8 
+starmie/False/purple/generation-i/sea/final/['water', 'psychic']/182/11 
+mr-mime/False/pink/generation-i/urban/middle/['psychic', 'fairy']/161/13 
+scyther/False/green/generation-i/grassland/base/['bug', 'flying']/100/15 
+jynx/False/red/generation-i/urban/final/['ice', 'psychic']/159/14 
+electabuzz/False/yellow/generation-i/grassland/middle/['electric']/172/11 
+magmar/False/red/generation-i/mountain/middle/['fire']/173/13 
+pinsir/False/brown/generation-i/forest/no-evolution/['bug']/175/15 
+tauros/False/brown/generation-i/grassland/no-evolution/['normal']/172/14 
+magikarp/False/red/generation-i/waters-edge/base/['water']/40/9 
+gyarados/False/blue/generation-i/waters-edge/final/['water', 'flying']/189/65 
+lapras/False/blue/generation-i/sea/no-evolution/['water', 'ice']/187/25 
+ditto/False/purple/generation-i/urban/no-evolution/['normal']/101/3 
+eevee/False/brown/generation-i/urban/base/['normal']/65/3 
+vaporeon/False/blue/generation-i/urban/middle/['water']/184/10 
+jolteon/False/yellow/generation-i/urban/middle/['electric']/184/8 
+flareon/False/red/generation-i/urban/middle/['fire']/184/9 
+porygon/False/pink/generation-i/urban/base/['normal']/79/8 
+omanyte/False/blue/generation-i/sea/base/['rock', 'water']/71/4 
+omastar/False/blue/generation-i/sea/final/['rock', 'water']/173/10 
+kabuto/False/brown/generation-i/sea/base/['rock', 'water']/71/5 
+kabutops/False/brown/generation-i/sea/final/['rock', 'water']/173/13 
+aerodactyl/False/purple/generation-i/mountain/no-evolution/['rock', 'flying']/180/18 
+snorlax/False/black/generation-i/mountain/final/['normal']/189/21 
+articuno/True/blue/generation-i/rare/no-evolution/['ice', 'flying']/261/17 
+zapdos/True/yellow/generation-i/rare/no-evolution/['electric', 'flying']/261/16 
+moltres/True/yellow/generation-i/rare/no-evolution/['fire', 'flying']/261/20 
+dratini/False/blue/generation-i/waters-edge/base/['dragon']/60/18 
+dragonair/False/blue/generation-i/waters-edge/middle/['dragon']/147/40 
+dragonite/False/brown/generation-i/waters-edge/final/['dragon', 'flying']/270/22 
+mewtwo/True/purple/generation-i/rare/no-evolution/['psychic']/306/20 
+mew/True/pink/generation-i/rare/no-evolution/['psychic']/270/4 
+chikorita/False/green/generation-ii/grassland/base/['grass']/64/9 
+bayleef/False/green/generation-ii/grassland/middle/['grass']/142/12 
+meganium/False/green/generation-ii/grassland/final/['grass']/236/18 
+cyndaquil/False/yellow/generation-ii/grassland/base/['fire']/62/5 
+quilava/False/yellow/generation-ii/grassland/middle/['fire']/142/9 
+typhlosion/False/yellow/generation-ii/grassland/final/['fire']/240/17 
+totodile/False/blue/generation-ii/waters-edge/base/['water']/63/6 
+croconaw/False/blue/generation-ii/waters-edge/middle/['water']/142/11 
+feraligatr/False/blue/generation-ii/waters-edge/final/['water']/239/23 
+sentret/False/brown/generation-ii/grassland/base/['normal']/43/8 
+furret/False/brown/generation-ii/grassland/final/['normal']/145/18 
+hoothoot/False/brown/generation-ii/forest/base/['normal', 'flying']/52/7 
+noctowl/False/brown/generation-ii/forest/final/['normal', 'flying']/158/16 
+ledyba/False/red/generation-ii/forest/base/['bug', 'flying']/53/10 
+ledian/False/red/generation-ii/forest/final/['bug', 'flying']/137/14 
+spinarak/False/green/generation-ii/forest/base/['bug', 'poison']/50/5 
+ariados/False/red/generation-ii/forest/final/['bug', 'poison']/140/11 
+crobat/False/purple/generation-ii/cave/final/['poison', 'flying']/241/18 
+chinchou/False/blue/generation-ii/sea/base/['water', 'electric']/66/5 
+lanturn/False/blue/generation-ii/sea/final/['water', 'electric']/161/12 
+pichu/False/yellow/generation-ii/forest/base/['electric']/41/3 
+cleffa/False/pink/generation-ii/mountain/base/['fairy']/44/3 
+igglybuff/False/pink/generation-ii/grassland/base/['normal', 'fairy']/42/3 
+togepi/False/white/generation-ii/forest/base/['fairy']/49/3 
+togetic/False/white/generation-ii/forest/middle/['fairy', 'flying']/142/6 
+natu/False/green/generation-ii/forest/base/['psychic', 'flying']/64/2 
+xatu/False/green/generation-ii/forest/final/['psychic', 'flying']/165/15 
+mareep/False/white/generation-ii/grassland/base/['electric']/56/6 
+flaaffy/False/pink/generation-ii/grassland/middle/['electric']/128/8 
+ampharos/False/yellow/generation-ii/grassland/final/['electric']/230/14 
+bellossom/False/green/generation-ii/grassland/final/['grass']/221/4 
+marill/False/blue/generation-ii/waters-edge/middle/['water', 'fairy']/88/4 
+azumarill/False/blue/generation-ii/waters-edge/final/['water', 'fairy']/189/8 
+sudowoodo/False/brown/generation-ii/forest/final/['rock']/144/12 
+politoed/False/green/generation-ii/waters-edge/final/['water']/225/11 
+hoppip/False/pink/generation-ii/grassland/base/['grass', 'flying']/50/4 
+skiploom/False/green/generation-ii/grassland/middle/['grass', 'flying']/119/6 
+jumpluff/False/blue/generation-ii/grassland/final/['grass', 'flying']/207/8 
+aipom/False/purple/generation-ii/forest/base/['normal']/72/8 
+sunkern/False/yellow/generation-ii/grassland/base/['grass']/36/3 
+sunflora/False/yellow/generation-ii/grassland/final/['grass']/149/8 
+yanma/False/red/generation-ii/forest/base/['bug', 'flying']/78/12 
+wooper/False/blue/generation-ii/waters-edge/base/['water', 'ground']/42/4 
+quagsire/False/blue/generation-ii/waters-edge/middle/['water', 'ground']/151/14 
+espeon/False/purple/generation-ii/urban/middle/['psychic']/184/9 
+umbreon/False/black/generation-ii/urban/middle/['dark']/184/10 
+murkrow/False/black/generation-ii/forest/base/['dark', 'flying']/81/5 
+slowking/False/pink/generation-ii/waters-edge/final/['water', 'psychic']/172/20 
+misdreavus/False/gray/generation-ii/cave/base/['ghost']/87/7 
+unown/False/black/generation-ii/rare/no-evolution/['psychic']/118/5 
+wobbuffet/False/blue/generation-ii/cave/final/['psychic']/142/13 
+girafarig/False/yellow/generation-ii/grassland/base/['normal', 'psychic']/159/15 
+pineco/False/gray/generation-ii/forest/base/['bug']/58/6 
+forretress/False/purple/generation-ii/forest/final/['bug', 'steel']/163/12 
+dunsparce/False/yellow/generation-ii/cave/base/['normal']/145/15 
+gligar/False/purple/generation-ii/mountain/base/['ground', 'flying']/86/11 
+steelix/False/gray/generation-ii/cave/final/['steel', 'ground']/179/92 
+snubbull/False/pink/generation-ii/urban/base/['fairy']/60/6 
+granbull/False/purple/generation-ii/urban/final/['fairy']/158/14 
+qwilfish/False/gray/generation-ii/sea/base/['water', 'poison']/88/5 
+scizor/False/red/generation-ii/grassland/middle/['bug', 'steel']/175/18 
+shuckle/False/yellow/generation-ii/mountain/no-evolution/['bug', 'rock']/177/6 
+heracross/False/blue/generation-ii/forest/no-evolution/['bug', 'fighting']/175/15 
+sneasel/False/black/generation-ii/forest/base/['dark', 'ice']/86/9 
+teddiursa/False/brown/generation-ii/mountain/base/['normal']/66/6 
+ursaring/False/brown/generation-ii/mountain/middle/['normal']/175/18 
+slugma/False/red/generation-ii/mountain/base/['fire']/50/7 
+magcargo/False/red/generation-ii/mountain/final/['fire', 'rock']/151/8 
+swinub/False/brown/generation-ii/cave/base/['ice', 'ground']/50/4 
+piloswine/False/brown/generation-ii/cave/middle/['ice', 'ground']/158/11 
+corsola/False/pink/generation-ii/sea/base/['water', 'rock']/144/6 
+remoraid/False/gray/generation-ii/sea/base/['water']/60/6 
+octillery/False/red/generation-ii/sea/final/['water']/168/9 
+delibird/False/red/generation-ii/mountain/no-evolution/['ice', 'flying']/116/9 
+mantine/False/purple/generation-ii/sea/final/['water', 'flying']/170/21 
+skarmory/False/gray/generation-ii/rough-terrain/no-evolution/['steel', 'flying']/163/17 
+houndour/False/black/generation-ii/rough-terrain/base/['dark', 'fire']/66/6 
+houndoom/False/black/generation-ii/rough-terrain/final/['dark', 'fire']/175/14 
+kingdra/False/blue/generation-ii/sea/final/['water', 'dragon']/243/18 
+phanpy/False/blue/generation-ii/rough-terrain/base/['ground']/66/5 
+donphan/False/gray/generation-ii/rough-terrain/final/['ground']/175/11 
+porygon2/False/red/generation-ii/urban/middle/['normal']/180/6 
+stantler/False/brown/generation-ii/forest/base/['normal']/163/14 
+smeargle/False/white/generation-ii/urban/no-evolution/['normal']/88/12 
+tyrogue/False/purple/generation-ii/urban/base/['fighting']/42/7 
+hitmontop/False/brown/generation-ii/urban/final/['fighting']/159/14 
+smoochum/False/pink/generation-ii/urban/base/['ice', 'psychic']/61/4 
+elekid/False/yellow/generation-ii/grassland/base/['electric']/72/6 
+magby/False/red/generation-ii/mountain/base/['fire']/73/7 
+miltank/False/pink/generation-ii/grassland/no-evolution/['normal']/172/12 
+blissey/False/pink/generation-ii/urban/final/['normal']/608/15 
+raikou/True/yellow/generation-ii/grassland/no-evolution/['electric']/261/19 
+entei/True/brown/generation-ii/grassland/no-evolution/['fire']/261/21 
+suicune/True/blue/generation-ii/grassland/no-evolution/['water']/261/20 
+larvitar/False/green/generation-ii/mountain/base/['rock', 'ground']/60/6 
+pupitar/False/gray/generation-ii/mountain/middle/['rock', 'ground']/144/12 
+tyranitar/False/green/generation-ii/mountain/final/['rock', 'dark']/270/20 
+lugia/True/white/generation-ii/rare/no-evolution/['psychic', 'flying']/306/52 
+ho-oh/True/red/generation-ii/rare/no-evolution/['fire', 'flying']/306/38 
+celebi/True/green/generation-ii/forest/no-evolution/['psychic', 'grass']/270/6 
+treecko/False/green/generation-iii/forest/base/['grass']/62/5 
+grovyle/False/green/generation-iii/forest/middle/['grass']/142/9 
+sceptile/False/green/generation-iii/forest/final/['grass']/239/17 
+torchic/False/red/generation-iii/grassland/base/['fire']/62/4 
+combusken/False/red/generation-iii/grassland/middle/['fire', 'fighting']/142/9 
+blaziken/False/red/generation-iii/grassland/final/['fire', 'fighting']/239/19 
+mudkip/False/blue/generation-iii/waters-edge/base/['water']/62/4 
+marshtomp/False/blue/generation-iii/waters-edge/middle/['water', 'ground']/142/7 
+swampert/False/blue/generation-iii/waters-edge/final/['water', 'ground']/241/15 
+poochyena/False/gray/generation-iii/grassland/base/['dark']/56/5 
+mightyena/False/gray/generation-iii/grassland/final/['dark']/147/10 
+zigzagoon/False/brown/generation-iii/grassland/base/['normal']/56/4 
+linoone/False/white/generation-iii/grassland/middle/['normal']/147/5 
+wurmple/False/red/generation-iii/forest/base/['bug']/56/3 
+silcoon/False/white/generation-iii/forest/middle/['bug']/72/6 
+beautifly/False/yellow/generation-iii/forest/middle/['bug', 'flying']/178/10 
+cascoon/False/purple/generation-iii/forest/middle/['bug']/72/7 
+dustox/False/green/generation-iii/forest/final/['bug', 'poison']/173/12 
+lotad/False/green/generation-iii/waters-edge/base/['water', 'grass']/44/5 
+lombre/False/green/generation-iii/waters-edge/middle/['water', 'grass']/119/12 
+ludicolo/False/green/generation-iii/waters-edge/final/['water', 'grass']/216/15 
+seedot/False/brown/generation-iii/forest/base/['grass']/44/5 
+nuzleaf/False/brown/generation-iii/forest/middle/['grass', 'dark']/119/10 
+shiftry/False/brown/generation-iii/forest/final/['grass', 'dark']/216/13 
+taillow/False/blue/generation-iii/grassland/base/['normal', 'flying']/54/3 
+swellow/False/blue/generation-iii/grassland/final/['normal', 'flying']/159/7 
+wingull/False/white/generation-iii/sea/base/['water', 'flying']/54/6 
+pelipper/False/yellow/generation-iii/sea/final/['water', 'flying']/154/12 
+ralts/False/white/generation-iii/urban/base/['psychic', 'fairy']/40/4 
+kirlia/False/white/generation-iii/urban/middle/['psychic', 'fairy']/97/8 
+gardevoir/False/white/generation-iii/urban/middle/['psychic', 'fairy']/233/16 
+surskit/False/blue/generation-iii/waters-edge/base/['bug', 'water']/54/5 
+masquerain/False/blue/generation-iii/waters-edge/final/['bug', 'flying']/159/8 
+shroomish/False/brown/generation-iii/forest/base/['grass']/59/4 
+breloom/False/green/generation-iii/forest/final/['grass', 'fighting']/161/12 
+slakoth/False/brown/generation-iii/forest/base/['normal']/56/8 
+vigoroth/False/white/generation-iii/forest/middle/['normal']/154/14 
+slaking/False/brown/generation-iii/forest/final/['normal']/252/20 
+nincada/False/gray/generation-iii/forest/base/['bug', 'ground']/53/5 
+ninjask/False/yellow/generation-iii/forest/middle/['bug', 'flying']/160/8 
+shedinja/False/brown/generation-iii/forest/final/['bug', 'ghost']/83/8 
+whismur/False/pink/generation-iii/cave/base/['normal']/48/6 
+loudred/False/blue/generation-iii/cave/middle/['normal']/126/10 
+exploud/False/blue/generation-iii/cave/final/['normal']/221/15 
+makuhita/False/yellow/generation-iii/mountain/base/['fighting']/47/10 
+hariyama/False/brown/generation-iii/mountain/final/['fighting']/166/23 
+azurill/False/blue/generation-iii/waters-edge/base/['normal', 'fairy']/38/2 
+nosepass/False/gray/generation-iii/cave/base/['rock']/75/10 
+skitty/False/pink/generation-iii/forest/base/['normal']/52/6 
+delcatty/False/purple/generation-iii/forest/final/['normal']/140/11 
+sableye/False/purple/generation-iii/cave/no-evolution/['dark', 'ghost']/133/5 
+mawile/False/black/generation-iii/cave/no-evolution/['steel', 'fairy']/133/6 
+aron/False/gray/generation-iii/mountain/base/['steel', 'rock']/66/4 
+lairon/False/gray/generation-iii/mountain/middle/['steel', 'rock']/151/9 
+aggron/False/gray/generation-iii/mountain/final/['steel', 'rock']/239/21 
+meditite/False/blue/generation-iii/mountain/base/['fighting', 'psychic']/56/6 
+medicham/False/red/generation-iii/mountain/final/['fighting', 'psychic']/144/13 
+electrike/False/green/generation-iii/grassland/base/['electric']/59/6 
+manectric/False/yellow/generation-iii/grassland/final/['electric']/166/15 
+plusle/False/yellow/generation-iii/grassland/no-evolution/['electric']/142/4 
+minun/False/yellow/generation-iii/grassland/no-evolution/['electric']/142/4 
+volbeat/False/gray/generation-iii/forest/no-evolution/['bug']/151/7 
+illumise/False/purple/generation-iii/forest/no-evolution/['bug']/151/6 
+roselia/False/green/generation-iii/grassland/middle/['grass', 'poison']/140/3 
+gulpin/False/green/generation-iii/grassland/base/['poison']/60/4 
+swalot/False/purple/generation-iii/grassland/final/['poison']/163/17 
+carvanha/False/red/generation-iii/sea/base/['water', 'dark']/61/8 
+sharpedo/False/blue/generation-iii/sea/final/['water', 'dark']/161/18 
+wailmer/False/blue/generation-iii/sea/base/['water']/80/20 
+wailord/False/blue/generation-iii/sea/final/['water']/175/145 
+numel/False/yellow/generation-iii/mountain/base/['fire', 'ground']/61/7 
+camerupt/False/red/generation-iii/mountain/final/['fire', 'ground']/161/19 
+torkoal/False/brown/generation-iii/mountain/no-evolution/['fire']/165/5 
+spoink/False/black/generation-iii/mountain/base/['psychic']/66/7 
+grumpig/False/purple/generation-iii/mountain/final/['psychic']/165/9 
+spinda/False/brown/generation-iii/mountain/no-evolution/['normal']/126/11 
+trapinch/False/brown/generation-iii/rough-terrain/base/['ground']/58/7 
+vibrava/False/green/generation-iii/rough-terrain/middle/['ground', 'dragon']/119/11 
+flygon/False/green/generation-iii/rough-terrain/final/['ground', 'dragon']/234/20 
+cacnea/False/green/generation-iii/rough-terrain/base/['grass']/67/4 
+cacturne/False/green/generation-iii/rough-terrain/final/['grass', 'dark']/166/13 
+swablu/False/blue/generation-iii/forest/base/['normal', 'flying']/62/4 
+altaria/False/blue/generation-iii/forest/final/['dragon', 'flying']/172/11 
+zangoose/False/white/generation-iii/grassland/no-evolution/['normal']/160/13 
+seviper/False/black/generation-iii/grassland/no-evolution/['poison']/160/27 
+lunatone/False/yellow/generation-iii/cave/no-evolution/['rock', 'psychic']/161/10 
+solrock/False/red/generation-iii/cave/no-evolution/['rock', 'psychic']/161/12 
+barboach/False/gray/generation-iii/waters-edge/base/['water', 'ground']/58/4 
+whiscash/False/blue/generation-iii/waters-edge/final/['water', 'ground']/164/9 
+corphish/False/red/generation-iii/waters-edge/base/['water']/62/6 
+crawdaunt/False/red/generation-iii/waters-edge/final/['water', 'dark']/164/11 
+baltoy/False/brown/generation-iii/rough-terrain/base/['ground', 'psychic']/60/5 
+claydol/False/black/generation-iii/rough-terrain/final/['ground', 'psychic']/175/15 
+lileep/False/purple/generation-iii/sea/base/['rock', 'grass']/71/10 
+cradily/False/green/generation-iii/sea/final/['rock', 'grass']/173/15 
+anorith/False/gray/generation-iii/waters-edge/base/['rock', 'bug']/71/7 
+armaldo/False/gray/generation-iii/waters-edge/final/['rock', 'bug']/173/15 
+feebas/False/brown/generation-iii/waters-edge/base/['water']/40/6 
+milotic/False/pink/generation-iii/waters-edge/final/['water']/189/62 
+castform/False/gray/generation-iii/grassland/no-evolution/['normal']/147/3 
+kecleon/False/green/generation-iii/forest/no-evolution/['normal']/154/10 
+shuppet/False/black/generation-iii/urban/base/['ghost']/59/6 
+banette/False/black/generation-iii/urban/final/['ghost']/159/11 
+duskull/False/black/generation-iii/forest/base/['ghost']/59/8 
+dusclops/False/black/generation-iii/forest/middle/['ghost']/159/16 
+tropius/False/green/generation-iii/forest/no-evolution/['grass', 'flying']/161/20 
+chimecho/False/blue/generation-iii/grassland/final/['psychic']/159/6 
+absol/False/white/generation-iii/mountain/no-evolution/['dark']/163/12 
+wynaut/False/blue/generation-iii/cave/base/['psychic']/52/6 
+snorunt/False/gray/generation-iii/cave/base/['ice']/60/7 
+glalie/False/gray/generation-iii/cave/middle/['ice']/168/15 
+spheal/False/blue/generation-iii/sea/base/['ice', 'water']/58/8 
+sealeo/False/blue/generation-iii/sea/middle/['ice', 'water']/144/11 
+walrein/False/blue/generation-iii/sea/final/['ice', 'water']/239/14 
+clamperl/False/blue/generation-iii/sea/base/['water']/69/4 
+huntail/False/blue/generation-iii/sea/middle/['water']/170/17 
+gorebyss/False/pink/generation-iii/sea/final/['water']/170/18 
+relicanth/False/gray/generation-iii/sea/no-evolution/['water', 'rock']/170/10 
+luvdisc/False/pink/generation-iii/sea/no-evolution/['water']/116/6 
+bagon/False/blue/generation-iii/rough-terrain/base/['dragon']/60/6 
+shelgon/False/white/generation-iii/rough-terrain/middle/['dragon']/147/11 
+salamence/False/blue/generation-iii/rough-terrain/final/['dragon', 'flying']/270/15 
+beldum/False/blue/generation-iii/rough-terrain/base/['steel', 'psychic']/60/6 
+metang/False/blue/generation-iii/rough-terrain/middle/['steel', 'psychic']/147/12 
+metagross/False/blue/generation-iii/rough-terrain/final/['steel', 'psychic']/270/16 
+regirock/True/brown/generation-iii/cave/no-evolution/['rock']/261/17 
+regice/True/blue/generation-iii/cave/no-evolution/['ice']/261/18 
+registeel/True/gray/generation-iii/cave/no-evolution/['steel']/261/19 
+latias/True/red/generation-iii/waters-edge/no-evolution/['dragon', 'psychic']/270/14 
+latios/True/blue/generation-iii/waters-edge/no-evolution/['dragon', 'psychic']/270/20 
+kyogre/True/blue/generation-iii/sea/no-evolution/['water']/302/45 
+groudon/True/red/generation-iii/rough-terrain/no-evolution/['ground']/302/35 
+rayquaza/True/green/generation-iii/rare/no-evolution/['dragon', 'flying']/306/70 
+jirachi/True/yellow/generation-iii/mountain/no-evolution/['steel', 'psychic']/270/3 
+turtwig/False/green/generation-iv/None/base/['grass']/64/4 
+grotle/False/green/generation-iv/None/middle/['grass']/142/11 
+torterra/False/green/generation-iv/None/final/['grass', 'ground']/236/22 
+chimchar/False/brown/generation-iv/None/base/['fire']/62/5 
+monferno/False/brown/generation-iv/None/middle/['fire', 'fighting']/142/9 
+infernape/False/brown/generation-iv/None/final/['fire', 'fighting']/240/12 
+piplup/False/blue/generation-iv/None/base/['water']/63/4 
+prinplup/False/blue/generation-iv/None/middle/['water']/142/8 
+empoleon/False/blue/generation-iv/None/final/['water', 'steel']/239/17 
+starly/False/brown/generation-iv/None/base/['normal', 'flying']/49/3 
+staravia/False/brown/generation-iv/None/middle/['normal', 'flying']/119/6 
+staraptor/False/brown/generation-iv/None/final/['normal', 'flying']/218/12 
+bidoof/False/brown/generation-iv/None/base/['normal']/50/5 
+bibarel/False/brown/generation-iv/None/final/['normal', 'water']/144/10 
+kricketot/False/red/generation-iv/None/base/['bug']/39/3 
+kricketune/False/red/generation-iv/None/final/['bug']/134/10 
+shinx/False/blue/generation-iv/None/base/['electric']/53/5 
+luxio/False/blue/generation-iv/None/middle/['electric']/127/9 
+luxray/False/blue/generation-iv/None/final/['electric']/235/14 
+budew/False/green/generation-iv/None/base/['grass', 'poison']/56/2 
+roserade/False/green/generation-iv/None/final/['grass', 'poison']/232/9 
+cranidos/False/blue/generation-iv/None/base/['rock']/70/9 
+rampardos/False/blue/generation-iv/None/final/['rock']/173/16 
+shieldon/False/gray/generation-iv/None/base/['rock', 'steel']/70/5 
+bastiodon/False/gray/generation-iv/None/final/['rock', 'steel']/173/13 
+burmy/False/green/generation-iv/None/base/['bug']/45/2 
+mothim/False/yellow/generation-iv/None/final/['bug', 'flying']/148/9 
+combee/False/yellow/generation-iv/None/base/['bug', 'flying']/49/3 
+vespiquen/False/yellow/generation-iv/None/final/['bug', 'flying']/166/12 
+pachirisu/False/white/generation-iv/None/no-evolution/['electric']/142/4 
+buizel/False/brown/generation-iv/None/base/['water']/66/7 
+floatzel/False/brown/generation-iv/None/final/['water']/173/11 
+cherubi/False/pink/generation-iv/None/base/['grass']/55/4 
+cherrim/False/purple/generation-iv/None/final/['grass']/158/5 
+shellos/False/purple/generation-iv/None/base/['water']/65/3 
+gastrodon/False/purple/generation-iv/None/final/['water', 'ground']/166/9 
+ambipom/False/purple/generation-iv/None/final/['normal']/169/12 
+drifloon/False/purple/generation-iv/None/base/['ghost', 'flying']/70/4 
+drifblim/False/purple/generation-iv/None/final/['ghost', 'flying']/174/12 
+buneary/False/brown/generation-iv/None/base/['normal']/70/4 
+lopunny/False/brown/generation-iv/None/final/['normal']/168/12 
+mismagius/False/purple/generation-iv/None/final/['ghost']/173/9 
+honchkrow/False/black/generation-iv/None/final/['dark', 'flying']/177/9 
+glameow/False/gray/generation-iv/None/base/['normal']/62/5 
+purugly/False/gray/generation-iv/None/final/['normal']/158/10 
+chingling/False/yellow/generation-iv/None/base/['psychic']/57/2 
+stunky/False/purple/generation-iv/None/base/['poison', 'dark']/66/4 
+skuntank/False/purple/generation-iv/None/final/['poison', 'dark']/168/10 
+bronzor/False/green/generation-iv/None/base/['steel', 'psychic']/60/5 
+bronzong/False/green/generation-iv/None/final/['steel', 'psychic']/175/13 
+bonsly/False/brown/generation-iv/None/base/['rock']/58/5 
+mime-jr/False/pink/generation-iv/None/base/['psychic', 'fairy']/62/6 
+happiny/False/pink/generation-iv/None/base/['normal']/110/6 
+chatot/False/black/generation-iv/None/no-evolution/['normal', 'flying']/144/5 
+spiritomb/False/purple/generation-iv/None/no-evolution/['ghost', 'dark']/170/10 
+gible/False/blue/generation-iv/None/base/['dragon', 'ground']/60/7 
+gabite/False/blue/generation-iv/None/middle/['dragon', 'ground']/144/14 
+garchomp/False/blue/generation-iv/None/final/['dragon', 'ground']/270/19 
+munchlax/False/black/generation-iv/None/base/['normal']/78/6 
+riolu/False/blue/generation-iv/None/base/['fighting']/57/7 
+lucario/False/blue/generation-iv/None/final/['fighting', 'steel']/184/12 
+hippopotas/False/brown/generation-iv/None/base/['ground']/66/8 
+hippowdon/False/brown/generation-iv/None/final/['ground']/184/20 
+skorupi/False/purple/generation-iv/None/base/['poison', 'bug']/66/8 
+drapion/False/purple/generation-iv/None/final/['poison', 'dark']/175/13 
+croagunk/False/blue/generation-iv/None/base/['poison', 'fighting']/60/7 
+toxicroak/False/blue/generation-iv/None/final/['poison', 'fighting']/172/13 
+carnivine/False/green/generation-iv/None/no-evolution/['grass']/159/14 
+finneon/False/blue/generation-iv/None/base/['water']/66/4 
+lumineon/False/blue/generation-iv/None/final/['water']/161/12 
+mantyke/False/blue/generation-iv/None/base/['water', 'flying']/69/10 
+snover/False/white/generation-iv/None/base/['grass', 'ice']/67/10 
+abomasnow/False/white/generation-iv/None/final/['grass', 'ice']/173/22 
+weavile/False/black/generation-iv/None/middle/['dark', 'ice']/179/11 
+magnezone/False/gray/generation-iv/None/final/['electric', 'steel']/241/12 
+lickilicky/False/pink/generation-iv/None/final/['normal']/180/17 
+rhyperior/False/gray/generation-iv/None/final/['ground', 'rock']/241/24 
+tangrowth/False/blue/generation-iv/None/final/['grass']/187/20 
+electivire/False/yellow/generation-iv/None/final/['electric']/243/18 
+magmortar/False/red/generation-iv/None/final/['fire']/243/16 
+togekiss/False/white/generation-iv/None/final/['fairy', 'flying']/245/15 
+yanmega/False/green/generation-iv/None/final/['bug', 'flying']/180/19 
+leafeon/False/green/generation-iv/None/middle/['grass']/184/10 
+glaceon/False/blue/generation-iv/None/middle/['ice']/184/8 
+gliscor/False/purple/generation-iv/None/final/['ground', 'flying']/179/20 
+mamoswine/False/brown/generation-iv/None/final/['ice', 'ground']/239/25 
+porygon-z/False/red/generation-iv/None/final/['normal']/241/9 
+gallade/False/white/generation-iv/None/final/['psychic', 'fighting']/233/16 
+probopass/False/gray/generation-iv/None/final/['rock', 'steel']/184/14 
+dusknoir/False/black/generation-iv/None/final/['ghost']/236/22 
+froslass/False/white/generation-iv/None/final/['ice', 'ghost']/168/13 
+rotom/False/red/generation-iv/None/no-evolution/['electric', 'ghost']/154/3 
+uxie/True/yellow/generation-iv/None/no-evolution/['psychic']/261/3 
+mesprit/True/pink/generation-iv/None/no-evolution/['psychic']/261/3 
+azelf/True/blue/generation-iv/None/no-evolution/['psychic']/261/3 
+dialga/True/white/generation-iv/None/no-evolution/['steel', 'dragon']/306/54 
+palkia/True/purple/generation-iv/None/no-evolution/['water', 'dragon']/306/42 
+heatran/True/brown/generation-iv/None/no-evolution/['fire', 'steel']/270/17 
+regigigas/True/white/generation-iv/None/no-evolution/['normal']/302/37 
+cresselia/True/yellow/generation-iv/None/no-evolution/['psychic']/270/15 
+phione/True/blue/generation-iv/None/base/['water']/216/4 
+manaphy/True/blue/generation-iv/None/final/['water']/270/3 
+darkrai/True/black/generation-iv/None/no-evolution/['dark']/270/15 
+arceus/True/white/generation-iv/None/no-evolution/['normal']/324/32 
+victini/True/yellow/generation-v/None/no-evolution/['psychic', 'fire']/270/4 
+snivy/False/green/generation-v/None/base/['grass']/62/6 
+servine/False/green/generation-v/None/middle/['grass']/145/8 
+serperior/False/green/generation-v/None/final/['grass']/238/33 
+tepig/False/red/generation-v/None/base/['fire']/62/5 
+pignite/False/red/generation-v/None/middle/['fire', 'fighting']/146/10 
+emboar/False/red/generation-v/None/final/['fire', 'fighting']/238/16 
+oshawott/False/blue/generation-v/None/base/['water']/62/5 
+dewott/False/blue/generation-v/None/middle/['water']/145/8 
+samurott/False/blue/generation-v/None/final/['water']/238/15 
+patrat/False/brown/generation-v/None/base/['normal']/51/5 
+watchog/False/brown/generation-v/None/final/['normal']/147/11 
+lillipup/False/brown/generation-v/None/base/['normal']/55/4 
+herdier/False/gray/generation-v/None/middle/['normal']/130/9 
+stoutland/False/gray/generation-v/None/final/['normal']/225/12 
+purrloin/False/purple/generation-v/None/base/['dark']/56/4 
+liepard/False/purple/generation-v/None/final/['dark']/156/11 
+pansage/False/green/generation-v/None/base/['grass']/63/6 
+simisage/False/green/generation-v/None/final/['grass']/174/11 
+pansear/False/red/generation-v/None/base/['fire']/63/6 
+simisear/False/red/generation-v/None/final/['fire']/174/10 
+panpour/False/blue/generation-v/None/base/['water']/63/6 
+simipour/False/blue/generation-v/None/final/['water']/174/10 
+munna/False/pink/generation-v/None/base/['psychic']/58/6 
+musharna/False/pink/generation-v/None/final/['psychic']/170/11 
+pidove/False/gray/generation-v/None/base/['normal', 'flying']/53/3 
+tranquill/False/gray/generation-v/None/middle/['normal', 'flying']/125/6 
+unfezant/False/gray/generation-v/None/final/['normal', 'flying']/220/12 
+blitzle/False/black/generation-v/None/base/['electric']/59/8 
+zebstrika/False/black/generation-v/None/final/['electric']/174/16 
+roggenrola/False/blue/generation-v/None/base/['rock']/56/4 
+boldore/False/blue/generation-v/None/middle/['rock']/137/9 
+gigalith/False/blue/generation-v/None/final/['rock']/232/17 
+woobat/False/blue/generation-v/None/base/['psychic', 'flying']/65/4 
+swoobat/False/blue/generation-v/None/final/['psychic', 'flying']/149/9 
+drilbur/False/gray/generation-v/None/base/['ground']/66/3 
+excadrill/False/gray/generation-v/None/final/['ground', 'steel']/178/7 
+audino/False/pink/generation-v/None/no-evolution/['normal']/390/11 
+timburr/False/gray/generation-v/None/base/['fighting']/61/6 
+gurdurr/False/gray/generation-v/None/middle/['fighting']/142/12 
+conkeldurr/False/brown/generation-v/None/final/['fighting']/227/14 
+tympole/False/blue/generation-v/None/base/['water']/59/5 
+palpitoad/False/blue/generation-v/None/middle/['water', 'ground']/134/8 
+seismitoad/False/blue/generation-v/None/final/['water', 'ground']/229/15 
+throh/False/red/generation-v/None/no-evolution/['fighting']/163/13 
+sawk/False/blue/generation-v/None/no-evolution/['fighting']/163/14 
+sewaddle/False/yellow/generation-v/None/base/['bug', 'grass']/62/3 
+swadloon/False/green/generation-v/None/middle/['bug', 'grass']/133/5 
+leavanny/False/yellow/generation-v/None/final/['bug', 'grass']/225/12 
+venipede/False/red/generation-v/None/base/['bug', 'poison']/52/4 
+whirlipede/False/gray/generation-v/None/middle/['bug', 'poison']/126/12 
+scolipede/False/red/generation-v/None/final/['bug', 'poison']/218/25 
+cottonee/False/green/generation-v/None/base/['grass', 'fairy']/56/3 
+whimsicott/False/green/generation-v/None/final/['grass', 'fairy']/168/7 
+petilil/False/green/generation-v/None/base/['grass']/56/5 
+lilligant/False/green/generation-v/None/final/['grass']/168/11 
+sandile/False/brown/generation-v/None/base/['ground', 'dark']/58/7 
+krokorok/False/brown/generation-v/None/middle/['ground', 'dark']/123/10 
+krookodile/False/red/generation-v/None/final/['ground', 'dark']/234/15 
+darumaka/False/red/generation-v/None/base/['fire']/63/6 
+maractus/False/green/generation-v/None/no-evolution/['grass']/161/10 
+dwebble/False/red/generation-v/None/base/['bug', 'rock']/65/3 
+crustle/False/red/generation-v/None/final/['bug', 'rock']/170/14 
+scraggy/False/yellow/generation-v/None/base/['dark', 'fighting']/70/6 
+scrafty/False/red/generation-v/None/final/['dark', 'fighting']/171/11 
+sigilyph/False/black/generation-v/None/no-evolution/['psychic', 'flying']/172/14 
+yamask/False/black/generation-v/None/base/['ghost']/61/5 
+cofagrigus/False/yellow/generation-v/None/middle/['ghost']/169/17 
+tirtouga/False/blue/generation-v/None/base/['water', 'rock']/71/7 
+carracosta/False/blue/generation-v/None/final/['water', 'rock']/173/12 
+archen/False/yellow/generation-v/None/base/['rock', 'flying']/71/5 
+archeops/False/yellow/generation-v/None/final/['rock', 'flying']/177/14 
+trubbish/False/green/generation-v/None/base/['poison']/66/6 
+garbodor/False/green/generation-v/None/final/['poison']/166/19 
+zorua/False/gray/generation-v/None/base/['dark']/66/7 
+zoroark/False/gray/generation-v/None/final/['dark']/179/16 
+minccino/False/gray/generation-v/None/base/['normal']/60/4 
+cinccino/False/gray/generation-v/None/final/['normal']/165/5 
+gothita/False/purple/generation-v/None/base/['psychic']/58/4 
+gothorita/False/purple/generation-v/None/middle/['psychic']/137/7 
+gothitelle/False/purple/generation-v/None/final/['psychic']/221/15 
+solosis/False/green/generation-v/None/base/['psychic']/58/3 
+duosion/False/green/generation-v/None/middle/['psychic']/130/6 
+reuniclus/False/green/generation-v/None/final/['psychic']/221/10 
+ducklett/False/blue/generation-v/None/base/['water', 'flying']/61/5 
+swanna/False/white/generation-v/None/final/['water', 'flying']/166/13 
+vanillite/False/white/generation-v/None/base/['ice']/61/4 
+vanillish/False/white/generation-v/None/middle/['ice']/138/11 
+vanilluxe/False/white/generation-v/None/final/['ice']/241/13 
+deerling/False/pink/generation-v/None/base/['normal', 'grass']/67/6 
+sawsbuck/False/brown/generation-v/None/final/['normal', 'grass']/166/19 
+emolga/False/white/generation-v/None/no-evolution/['electric', 'flying']/150/4 
+karrablast/False/blue/generation-v/None/base/['bug']/63/5 
+escavalier/False/gray/generation-v/None/final/['bug', 'steel']/173/10 
+foongus/False/white/generation-v/None/base/['grass', 'poison']/59/2 
+amoonguss/False/white/generation-v/None/final/['grass', 'poison']/162/6 
+frillish/False/white/generation-v/None/base/['water', 'ghost']/67/12 
+jellicent/False/white/generation-v/None/final/['water', 'ghost']/168/22 
+alomomola/False/pink/generation-v/None/no-evolution/['water']/165/12 
+joltik/False/yellow/generation-v/None/base/['bug', 'electric']/64/1 
+galvantula/False/yellow/generation-v/None/final/['bug', 'electric']/165/8 
+ferroseed/False/gray/generation-v/None/base/['grass', 'steel']/61/6 
+ferrothorn/False/gray/generation-v/None/final/['grass', 'steel']/171/10 
+klink/False/gray/generation-v/None/base/['steel']/60/3 
+klang/False/gray/generation-v/None/middle/['steel']/154/6 
+klinklang/False/gray/generation-v/None/final/['steel']/234/6 
+tynamo/False/white/generation-v/None/base/['electric']/55/2 
+eelektrik/False/blue/generation-v/None/middle/['electric']/142/12 
+eelektross/False/blue/generation-v/None/final/['electric']/232/21 
+elgyem/False/blue/generation-v/None/base/['psychic']/67/5 
+beheeyem/False/brown/generation-v/None/final/['psychic']/170/10 
+litwick/False/white/generation-v/None/base/['ghost', 'fire']/55/3 
+lampent/False/black/generation-v/None/middle/['ghost', 'fire']/130/6 
+chandelure/False/black/generation-v/None/final/['ghost', 'fire']/234/10 
+axew/False/green/generation-v/None/base/['dragon']/64/6 
+fraxure/False/green/generation-v/None/middle/['dragon']/144/10 
+haxorus/False/yellow/generation-v/None/final/['dragon']/243/18 
+cubchoo/False/white/generation-v/None/base/['ice']/61/5 
+beartic/False/white/generation-v/None/final/['ice']/177/26 
+cryogonal/False/blue/generation-v/None/no-evolution/['ice']/180/11 
+shelmet/False/red/generation-v/None/base/['bug']/61/4 
+accelgor/False/red/generation-v/None/final/['bug']/173/8 
+stunfisk/False/brown/generation-v/None/no-evolution/['ground', 'electric']/165/7 
+mienfoo/False/yellow/generation-v/None/base/['fighting']/70/9 
+mienshao/False/purple/generation-v/None/final/['fighting']/179/14 
+druddigon/False/red/generation-v/None/no-evolution/['dragon']/170/16 
+golett/False/green/generation-v/None/base/['ground', 'ghost']/61/10 
+golurk/False/green/generation-v/None/final/['ground', 'ghost']/169/28 
+pawniard/False/red/generation-v/None/base/['dark', 'steel']/68/5 
+bisharp/False/red/generation-v/None/middle/['dark', 'steel']/172/16 
+bouffalant/False/brown/generation-v/None/no-evolution/['normal']/172/16 
+rufflet/False/white/generation-v/None/base/['normal', 'flying']/70/5 
+braviary/False/red/generation-v/None/final/['normal', 'flying']/179/15 
+vullaby/False/brown/generation-v/None/base/['dark', 'flying']/74/5 
+mandibuzz/False/brown/generation-v/None/final/['dark', 'flying']/179/12 
+heatmor/False/red/generation-v/None/no-evolution/['fire']/169/14 
+durant/False/gray/generation-v/None/no-evolution/['bug', 'steel']/169/3 
+deino/False/blue/generation-v/None/base/['dark', 'dragon']/60/8 
+zweilous/False/blue/generation-v/None/middle/['dark', 'dragon']/147/14 
+hydreigon/False/blue/generation-v/None/final/['dark', 'dragon']/270/18 
+larvesta/False/white/generation-v/None/base/['bug', 'fire']/72/11 
+volcarona/False/white/generation-v/None/final/['bug', 'fire']/248/16 
+cobalion/True/blue/generation-v/None/no-evolution/['steel', 'fighting']/261/21 
+terrakion/True/gray/generation-v/None/no-evolution/['rock', 'fighting']/261/19 
+virizion/True/green/generation-v/None/no-evolution/['grass', 'fighting']/261/20 
+reshiram/True/white/generation-v/None/no-evolution/['dragon', 'fire']/306/32 
+zekrom/True/black/generation-v/None/no-evolution/['dragon', 'electric']/306/29 
+kyurem/True/gray/generation-v/None/no-evolution/['dragon', 'ice']/297/30 
+genesect/True/purple/generation-v/None/no-evolution/['bug', 'steel']/270/15 
+chespin/False/green/generation-vi/None/base/['grass']/63/4 
+quilladin/False/green/generation-vi/None/middle/['grass']/142/7 
+chesnaught/False/green/generation-vi/None/final/['grass', 'fighting']/239/16 
+fennekin/False/red/generation-vi/None/base/['fire']/61/4 
+braixen/False/red/generation-vi/None/middle/['fire']/143/10 
+delphox/False/red/generation-vi/None/final/['fire', 'psychic']/240/15 
+froakie/False/blue/generation-vi/None/base/['water']/63/3 
+frogadier/False/blue/generation-vi/None/middle/['water']/142/6 
+greninja/False/blue/generation-vi/None/final/['water', 'dark']/239/15 
+bunnelby/False/brown/generation-vi/None/base/['normal']/47/4 
+diggersby/False/brown/generation-vi/None/final/['normal', 'ground']/148/10 
+fletchling/False/red/generation-vi/None/base/['normal', 'flying']/56/3 
+fletchinder/False/red/generation-vi/None/middle/['fire', 'flying']/134/7 
+talonflame/False/red/generation-vi/None/final/['fire', 'flying']/175/12 
+scatterbug/False/black/generation-vi/None/base/['bug']/40/3 
+spewpa/False/black/generation-vi/None/middle/['bug']/75/3 
+vivillon/False/white/generation-vi/None/final/['bug', 'flying']/185/12 
+litleo/False/brown/generation-vi/None/base/['fire', 'normal']/74/6 
+pyroar/False/brown/generation-vi/None/final/['fire', 'normal']/177/15 
+flabebe/False/white/generation-vi/None/base/['fairy']/61/1 
+floette/False/white/generation-vi/None/middle/['fairy']/130/2 
+florges/False/white/generation-vi/None/final/['fairy']/248/11 
+skiddo/False/brown/generation-vi/None/base/['grass']/70/9 
+gogoat/False/brown/generation-vi/None/final/['grass']/186/17 
+pancham/False/white/generation-vi/None/base/['fighting']/70/6 
+pangoro/False/white/generation-vi/None/final/['fighting', 'dark']/173/21 
+furfrou/False/white/generation-vi/None/no-evolution/['normal']/165/12 
+espurr/False/gray/generation-vi/None/base/['psychic']/71/3 
+honedge/False/brown/generation-vi/None/base/['steel', 'ghost']/65/8 
+doublade/False/brown/generation-vi/None/middle/['steel', 'ghost']/157/8 
+spritzee/False/pink/generation-vi/None/base/['fairy']/68/2 
+aromatisse/False/pink/generation-vi/None/final/['fairy']/162/8 
+swirlix/False/white/generation-vi/None/base/['fairy']/68/4 
+slurpuff/False/white/generation-vi/None/final/['fairy']/168/8 
+inkay/False/blue/generation-vi/None/base/['dark', 'psychic']/58/4 
+malamar/False/blue/generation-vi/None/final/['dark', 'psychic']/169/15 
+binacle/False/brown/generation-vi/None/base/['rock', 'water']/61/5 
+barbaracle/False/brown/generation-vi/None/final/['rock', 'water']/175/13 
+skrelp/False/brown/generation-vi/None/base/['poison', 'water']/64/5 
+dragalge/False/brown/generation-vi/None/final/['poison', 'dragon']/173/18 
+clauncher/False/blue/generation-vi/None/base/['water']/66/5 
+clawitzer/False/blue/generation-vi/None/final/['water']/100/13 
+helioptile/False/yellow/generation-vi/None/base/['electric', 'normal']/58/5 
+heliolisk/False/yellow/generation-vi/None/final/['electric', 'normal']/168/10 
+tyrunt/False/brown/generation-vi/None/base/['rock', 'dragon']/72/8 
+tyrantrum/False/red/generation-vi/None/final/['rock', 'dragon']/182/25 
+amaura/False/blue/generation-vi/None/base/['rock', 'ice']/72/13 
+aurorus/False/blue/generation-vi/None/final/['rock', 'ice']/104/27 
+sylveon/False/pink/generation-vi/None/final/['fairy']/184/10 
+hawlucha/False/green/generation-vi/None/no-evolution/['fighting', 'flying']/175/8 
+dedenne/False/yellow/generation-vi/None/no-evolution/['electric', 'fairy']/151/2 
+carbink/False/gray/generation-vi/None/no-evolution/['rock', 'fairy']/100/3 
+goomy/False/purple/generation-vi/None/base/['dragon']/60/3 
+sliggoo/False/purple/generation-vi/None/middle/['dragon']/158/8 
+goodra/False/purple/generation-vi/None/final/['dragon']/270/20 
+klefki/False/gray/generation-vi/None/no-evolution/['steel', 'fairy']/165/2 
+phantump/False/brown/generation-vi/None/base/['ghost', 'grass']/62/4 
+trevenant/False/brown/generation-vi/None/final/['ghost', 'grass']/166/15 
+bergmite/False/blue/generation-vi/None/base/['ice']/61/10 
+avalugg/False/blue/generation-vi/None/final/['ice']/180/20 
+noibat/False/purple/generation-vi/None/base/['flying', 'dragon']/49/5 
+noivern/False/purple/generation-vi/None/final/['flying', 'dragon']/187/15 
+xerneas/True/blue/generation-vi/None/no-evolution/['fairy']/306/30 
+yveltal/True/red/generation-vi/None/no-evolution/['dark', 'flying']/306/58 
+diancie/True/pink/generation-vi/None/no-evolution/['rock', 'fairy']/270/7 
+hoopa/True/purple/generation-vi/None/no-evolution/['psychic', 'ghost']/270/5 
+volcanion/True/brown/generation-vi/None/no-evolution/['fire', 'water']/270/17 
+rowlet/False/brown/generation-vii/None/base/['grass', 'flying']/64/3 
+dartrix/False/brown/generation-vii/None/middle/['grass', 'flying']/147/7 
+decidueye/False/brown/generation-vii/None/final/['grass', 'ghost']/239/16 
+litten/False/red/generation-vii/None/base/['fire']/64/4 
+torracat/False/red/generation-vii/None/middle/['fire']/147/7 
+incineroar/False/red/generation-vii/None/final/['fire', 'dark']/239/18 
+popplio/False/blue/generation-vii/None/base/['water']/64/4 
+brionne/False/blue/generation-vii/None/middle/['water']/147/6 
+primarina/False/blue/generation-vii/None/final/['water', 'fairy']/239/18 
+pikipek/False/black/generation-vii/None/base/['normal', 'flying']/53/3 
+trumbeak/False/black/generation-vii/None/middle/['normal', 'flying']/124/6 
+toucannon/False/black/generation-vii/None/final/['normal', 'flying']/218/11 
+yungoos/False/brown/generation-vii/None/base/['normal']/51/4 
+gumshoos/False/brown/generation-vii/None/final/['normal']/146/7 
+grubbin/False/gray/generation-vii/None/base/['bug']/60/4 
+charjabug/False/green/generation-vii/None/middle/['bug', 'electric']/140/5 
+vikavolt/False/blue/generation-vii/None/final/['bug', 'electric']/225/15 
+crabrawler/False/purple/generation-vii/None/base/['fighting']/68/6 
+crabominable/False/white/generation-vii/None/final/['fighting', 'ice']/167/17 
+cutiefly/False/yellow/generation-vii/None/base/['bug', 'fairy']/61/1 
+ribombee/False/yellow/generation-vii/None/final/['bug', 'fairy']/162/2 
+rockruff/False/brown/generation-vii/None/base/['rock']/56/5 
+mareanie/False/blue/generation-vii/None/base/['poison', 'water']/61/4 
+toxapex/False/blue/generation-vii/None/final/['poison', 'water']/173/7 
+mudbray/False/brown/generation-vii/None/base/['ground']/77/10 
+mudsdale/False/brown/generation-vii/None/final/['ground']/175/25 
+dewpider/False/green/generation-vii/None/base/['water', 'bug']/54/3 
+araquanid/False/green/generation-vii/None/final/['water', 'bug']/159/18 
+fomantis/False/pink/generation-vii/None/base/['grass']/50/3 
+lurantis/False/pink/generation-vii/None/final/['grass']/168/9 
+morelull/False/purple/generation-vii/None/base/['grass', 'fairy']/57/2 
+shiinotic/False/purple/generation-vii/None/final/['grass', 'fairy']/142/10 
+salandit/False/black/generation-vii/None/base/['poison', 'fire']/64/6 
+salazzle/False/black/generation-vii/None/final/['poison', 'fire']/168/12 
+stufful/False/pink/generation-vii/None/base/['normal', 'fighting']/68/5 
+bewear/False/pink/generation-vii/None/final/['normal', 'fighting']/175/21 
+bounsweet/False/purple/generation-vii/None/base/['grass']/42/3 
+steenee/False/purple/generation-vii/None/middle/['grass']/102/7 
+tsareena/False/purple/generation-vii/None/final/['grass']/230/12 
+comfey/False/green/generation-vii/None/no-evolution/['fairy']/170/1 
+oranguru/False/white/generation-vii/None/no-evolution/['normal', 'psychic']/172/15 
+passimian/False/white/generation-vii/None/no-evolution/['fighting']/172/20 
+wimpod/False/gray/generation-vii/None/base/['bug', 'water']/46/5 
+golisopod/False/gray/generation-vii/None/final/['bug', 'water']/186/20 
+sandygast/False/brown/generation-vii/None/base/['ghost', 'ground']/64/5 
+palossand/False/brown/generation-vii/None/final/['ghost', 'ground']/168/13 
+pyukumuku/False/black/generation-vii/None/no-evolution/['water']/144/3 
+type-null/True/gray/generation-vii/None/base/['normal']/107/19 
+silvally/True/gray/generation-vii/None/final/['normal']/257/23 
+komala/False/blue/generation-vii/None/no-evolution/['normal']/168/4 
+turtonator/False/red/generation-vii/None/no-evolution/['fire', 'dragon']/170/20 
+togedemaru/False/gray/generation-vii/None/no-evolution/['electric', 'steel']/152/3 
+bruxish/False/pink/generation-vii/None/no-evolution/['water', 'psychic']/166/9 
+drampa/False/white/generation-vii/None/no-evolution/['normal', 'dragon']/170/30 
+dhelmise/False/green/generation-vii/None/no-evolution/['ghost', 'grass']/181/39 
+jangmo-o/False/gray/generation-vii/None/base/['dragon']/60/6 
+hakamo-o/False/gray/generation-vii/None/middle/['dragon', 'fighting']/147/12 
+kommo-o/False/gray/generation-vii/None/final/['dragon', 'fighting']/270/16 
+tapu-koko/True/yellow/generation-vii/None/no-evolution/['electric', 'fairy']/257/18 
+tapu-lele/True/pink/generation-vii/None/no-evolution/['psychic', 'fairy']/257/12 
+tapu-bulu/True/red/generation-vii/None/no-evolution/['grass', 'fairy']/257/19 
+tapu-fini/True/purple/generation-vii/None/no-evolution/['water', 'fairy']/257/13 
+cosmog/True/blue/generation-vii/None/base/['psychic']/40/2 
+cosmoem/True/blue/generation-vii/None/middle/['psychic']/140/1 
+solgaleo/True/white/generation-vii/None/middle/['psychic', 'steel']/306/34 
+lunala/True/purple/generation-vii/None/final/['psychic', 'ghost']/306/40 
+nihilego/False/white/generation-vii/None/no-evolution/['rock', 'poison']/257/12 
+buzzwole/False/red/generation-vii/None/no-evolution/['bug', 'fighting']/257/24 
+pheromosa/False/white/generation-vii/None/no-evolution/['bug', 'fighting']/257/18 
+xurkitree/False/black/generation-vii/None/no-evolution/['electric']/257/38 
+celesteela/False/green/generation-vii/None/no-evolution/['steel', 'flying']/257/92 
+kartana/False/white/generation-vii/None/no-evolution/['grass', 'steel']/257/3 
+guzzlord/False/black/generation-vii/None/no-evolution/['dark', 'dragon']/257/55 
+necrozma/True/black/generation-vii/None/no-evolution/['psychic']/270/24 
+magearna/True/gray/generation-vii/None/no-evolution/['steel', 'fairy']/270/10 
+marshadow/True/gray/generation-vii/None/no-evolution/['fighting', 'ghost']/270/7 
+poipole/False/purple/generation-vii/None/base/['poison']/189/6 
+naganadel/False/purple/generation-vii/None/final/['poison', 'dragon']/243/36 
+stakataka/False/gray/generation-vii/None/no-evolution/['rock', 'steel']/257/55 
+blacephalon/False/white/generation-vii/None/no-evolution/['fire', 'ghost']/257/18 
+zeraora/True/yellow/generation-vii/None/no-evolution/['electric']/270/15 
+meltan/True/gray/generation-vii/None/no-evolution/['steel']/135/2 
+melmetal/True/gray/generation-vii/None/no-evolution/['steel']/270/25 
+grookey/False/green/generation-viii/None/base/['grass']/62/3 
+thwackey/False/green/generation-viii/None/middle/['grass']/147/7 
+rillaboom/False/green/generation-viii/None/final/['grass']/265/21 
+scorbunny/False/white/generation-viii/None/base/['fire']/62/3 
+raboot/False/gray/generation-viii/None/middle/['fire']/147/6 
+cinderace/False/white/generation-viii/None/final/['fire']/265/14 
+sobble/False/blue/generation-viii/None/base/['water']/62/3 
+drizzile/False/blue/generation-viii/None/middle/['water']/147/7 
+inteleon/False/blue/generation-viii/None/final/['water']/265/19 
+skwovet/False/brown/generation-viii/None/base/['normal']/55/3 
+greedent/False/brown/generation-viii/None/final/['normal']/161/6 
+rookidee/False/blue/generation-viii/None/base/['flying']/49/2 
+corvisquire/False/blue/generation-viii/None/middle/['flying']/128/8 
+corviknight/False/purple/generation-viii/None/final/['flying', 'steel']/248/22 
+blipbug/False/blue/generation-viii/None/base/['bug']/36/4 
+dottler/False/yellow/generation-viii/None/middle/['bug', 'psychic']/117/4 
+orbeetle/False/red/generation-viii/None/final/['bug', 'psychic']/253/4 
+nickit/False/brown/generation-viii/None/base/['dark']/49/6 
+thievul/False/brown/generation-viii/None/final/['dark']/159/12 
+gossifleur/False/green/generation-viii/None/base/['grass']/50/4 
+eldegoss/False/green/generation-viii/None/final/['grass']/161/5 
+wooloo/False/white/generation-viii/None/base/['normal']/122/6 
+dubwool/False/white/generation-viii/None/final/['normal']/172/13 
+chewtle/False/green/generation-viii/None/base/['water']/57/3 
+drednaw/False/green/generation-viii/None/final/['water', 'rock']/170/10 
+yamper/False/yellow/generation-viii/None/base/['electric']/54/3 
+boltund/False/yellow/generation-viii/None/final/['electric']/172/10 
+rolycoly/False/black/generation-viii/None/base/['rock']/48/3 
+carkol/False/black/generation-viii/None/middle/['rock', 'fire']/144/11 
+coalossal/False/black/generation-viii/None/final/['rock', 'fire']/255/28 
+applin/False/green/generation-viii/None/base/['grass', 'dragon']/52/2 
+flapple/False/green/generation-viii/None/middle/['grass', 'dragon']/170/3 
+appletun/False/green/generation-viii/None/middle/['grass', 'dragon']/170/4 
+silicobra/False/green/generation-viii/None/base/['ground']/63/22 
+sandaconda/False/green/generation-viii/None/final/['ground']/179/38 
+cramorant/False/blue/generation-viii/None/no-evolution/['flying', 'water']/166/8 
+arrokuda/False/brown/generation-viii/None/base/['water']/56/5 
+barraskewda/False/brown/generation-viii/None/final/['water']/172/13 
+toxel/False/purple/generation-viii/None/base/['electric', 'poison']/48/4 
+sizzlipede/False/red/generation-viii/None/base/['fire', 'bug']/61/7 
+centiskorch/False/red/generation-viii/None/final/['fire', 'bug']/184/30 
+clobbopus/False/brown/generation-viii/None/base/['fighting']/62/6 
+grapploct/False/blue/generation-viii/None/final/['fighting']/168/16 
+sinistea/False/purple/generation-viii/None/base/['ghost']/62/1 
+polteageist/False/purple/generation-viii/None/final/['ghost']/178/2 
+hatenna/False/pink/generation-viii/None/base/['psychic']/53/4 
+hattrem/False/pink/generation-viii/None/middle/['psychic']/130/6 
+hatterene/False/pink/generation-viii/None/final/['psychic', 'fairy']/255/21 
+impidimp/False/pink/generation-viii/None/base/['dark', 'fairy']/53/4 
+morgrem/False/pink/generation-viii/None/middle/['dark', 'fairy']/130/8 
+grimmsnarl/False/purple/generation-viii/None/final/['dark', 'fairy']/255/15 
+obstagoon/False/gray/generation-viii/None/final/['dark', 'normal']/260/16 
+perrserker/False/brown/generation-viii/None/final/['steel']/154/8 
+cursola/False/white/generation-viii/None/final/['ghost']/179/10 
+sirfetchd/False/white/generation-viii/None/final/['fighting']/177/8 
+mr-rime/False/purple/generation-viii/None/final/['ice', 'psychic']/182/15 
+runerigus/False/gray/generation-viii/None/final/['ground', 'ghost']/169/16 
+milcery/False/white/generation-viii/None/base/['fairy']/54/2 
+alcremie/False/white/generation-viii/None/final/['fairy']/173/3 
+falinks/False/yellow/generation-viii/None/no-evolution/['fighting']/165/30 
+pincurchin/False/purple/generation-viii/None/no-evolution/['electric']/152/3 
+snom/False/white/generation-viii/None/base/['ice', 'bug']/37/3 
+frosmoth/False/white/generation-viii/None/final/['ice', 'bug']/166/13 
+stonjourner/False/gray/generation-viii/None/no-evolution/['rock']/165/25 
+cufant/False/yellow/generation-viii/None/base/['steel']/66/12 
+copperajah/False/green/generation-viii/None/final/['steel']/175/30 
+dracozolt/False/green/generation-viii/None/no-evolution/['electric', 'dragon']/177/18 
+arctozolt/False/blue/generation-viii/None/no-evolution/['electric', 'ice']/177/23 
+dracovish/False/green/generation-viii/None/no-evolution/['water', 'dragon']/177/23 
+arctovish/False/blue/generation-viii/None/no-evolution/['water', 'ice']/177/20 
+duraludon/False/white/generation-viii/None/base/['steel', 'dragon']/187/18 
+dreepy/False/green/generation-viii/None/base/['dragon', 'ghost']/54/5 
+drakloak/False/green/generation-viii/None/middle/['dragon', 'ghost']/144/14 
+dragapult/False/green/generation-viii/None/final/['dragon', 'ghost']/300/30 
+zacian/True/blue/generation-viii/None/no-evolution/['fairy']/335/28 
+zamazenta/True/red/generation-viii/None/no-evolution/['fighting']/335/29 
+eternatus/True/purple/generation-viii/None/no-evolution/['poison', 'dragon']/345/200 
+kubfu/True/gray/generation-viii/None/base/['fighting']/77/6 
+zarude/True/green/generation-viii/None/no-evolution/['dark', 'grass']/300/18 
+regieleki/True/yellow/generation-viii/None/no-evolution/['electric']/290/12 
+regidrago/True/green/generation-viii/None/no-evolution/['dragon']/290/21 
+glastrier/True/white/generation-viii/None/no-evolution/['ice']/290/22 
+spectrier/True/black/generation-viii/None/no-evolution/['ghost']/290/20 
+calyrex/True/green/generation-viii/None/no-evolution/['psychic', 'grass']/250/11 
+wyrdeer/False/gray/generation-viii/None/final/['normal', 'psychic']/263/18 
+kleavor/False/brown/generation-viii/None/final/['bug', 'rock']/175/18 
+ursaluna/False/brown/generation-viii/None/final/['ground', 'normal']/275/24 
+sneasler/False/gray/generation-viii/None/final/['fighting', 'poison']/102/13 
+overqwil/False/black/generation-viii/None/final/['dark', 'poison']/179/25 
+sprigatito/False/green/generation-ix/None/base/['grass']/62/4 
+floragato/False/green/generation-ix/None/middle/['grass']/144/9 
+meowscarada/False/green/generation-ix/None/final/['grass', 'dark']/265/15 
+fuecoco/False/red/generation-ix/None/base/['fire']/62/4 
+crocalor/False/red/generation-ix/None/middle/['fire']/144/10 
+skeledirge/False/red/generation-ix/None/final/['fire', 'ghost']/265/16 
+quaxly/False/white/generation-ix/None/base/['water']/62/5 
+quaxwell/False/blue/generation-ix/None/middle/['water']/144/12 
+quaquaval/False/blue/generation-ix/None/final/['water', 'fighting']/265/18 
+lechonk/False/gray/generation-ix/None/base/['normal']/51/5 
+tarountula/False/white/generation-ix/None/base/['bug']/42/3 
+spidops/False/green/generation-ix/None/final/['bug']/141/10 
+nymble/False/gray/generation-ix/None/base/['bug']/42/2 
+lokix/False/gray/generation-ix/None/final/['bug', 'dark']/158/10 
+pawmi/False/yellow/generation-ix/None/base/['electric']/48/3 
+pawmo/False/yellow/generation-ix/None/middle/['electric', 'fighting']/123/4 
+pawmot/False/yellow/generation-ix/None/final/['electric', 'fighting']/245/9 
+tandemaus/False/white/generation-ix/None/base/['normal']/61/3 
+fidough/False/yellow/generation-ix/None/base/['fairy']/62/3 
+dachsbun/False/brown/generation-ix/None/final/['fairy']/167/5 
+smoliv/False/green/generation-ix/None/base/['grass', 'normal']/52/3 
+dolliv/False/green/generation-ix/None/middle/['grass', 'normal']/124/6 
+arboliva/False/green/generation-ix/None/final/['grass', 'normal']/255/14 
+nacli/False/brown/generation-ix/None/base/['rock']/56/4 
+naclstack/False/brown/generation-ix/None/middle/['rock']/124/6 
+garganacl/False/brown/generation-ix/None/final/['rock']/250/23 
+charcadet/False/red/generation-ix/None/base/['fire']/51/6 
+armarouge/False/red/generation-ix/None/middle/['fire', 'psychic']/263/15 
+ceruledge/False/blue/generation-ix/None/final/['fire', 'ghost']/263/16 
+tadbulb/False/yellow/generation-ix/None/base/['electric']/54/3 
+bellibolt/False/green/generation-ix/None/final/['electric']/173/12 
+wattrel/False/black/generation-ix/None/base/['electric', 'flying']/56/4 
+kilowattrel/False/yellow/generation-ix/None/final/['electric', 'flying']/172/14 
+maschiff/False/brown/generation-ix/None/base/['dark']/68/5 
+mabosstiff/False/gray/generation-ix/None/final/['dark']/177/11 
+shroodle/False/gray/generation-ix/None/base/['poison', 'normal']/58/2 
+grafaiai/False/gray/generation-ix/None/final/['poison', 'normal']/170/7 
+bramblin/False/brown/generation-ix/None/base/['grass', 'ghost']/55/6 
+brambleghast/False/brown/generation-ix/None/final/['grass', 'ghost']/168/12 
+toedscool/False/yellow/generation-ix/None/base/['ground', 'grass']/67/9 
+toedscruel/False/black/generation-ix/None/final/['ground', 'grass']/180/19 
+klawf/False/red/generation-ix/None/no-evolution/['rock']/158/13 
+capsakid/False/green/generation-ix/None/base/['grass']/61/3 
+scovillain/False/green/generation-ix/None/final/['grass', 'fire']/170/9 
+rellor/False/brown/generation-ix/None/base/['bug']/54/2 
+rabsca/False/green/generation-ix/None/final/['bug', 'psychic']/165/3 
+flittle/False/yellow/generation-ix/None/base/['psychic']/51/2 
+espathra/False/yellow/generation-ix/None/final/['psychic']/168/19 
+tinkatink/False/pink/generation-ix/None/base/['fairy', 'steel']/59/4 
+tinkatuff/False/pink/generation-ix/None/middle/['fairy', 'steel']/133/7 
+tinkaton/False/pink/generation-ix/None/final/['fairy', 'steel']/253/7 
+wiglett/False/white/generation-ix/None/base/['water']/49/12 
+wugtrio/False/red/generation-ix/None/final/['water']/149/12 
+bombirdier/False/white/generation-ix/None/no-evolution/['flying', 'dark']/243/15 
+finizen/False/blue/generation-ix/None/base/['water']/63/13 
+varoom/False/gray/generation-ix/None/base/['steel', 'poison']/60/10 
+revavroom/False/gray/generation-ix/None/final/['steel', 'poison']/175/18 
+cyclizar/False/green/generation-ix/None/no-evolution/['dragon', 'normal']/175/16 
+orthworm/False/pink/generation-ix/None/no-evolution/['steel']/240/25 
+glimmet/False/blue/generation-ix/None/base/['rock', 'poison']/70/7 
+glimmora/False/blue/generation-ix/None/final/['rock', 'poison']/184/15 
+greavard/False/white/generation-ix/None/base/['ghost']/58/6 
+houndstone/False/white/generation-ix/None/final/['ghost']/171/20 
+flamigo/False/pink/generation-ix/None/no-evolution/['flying', 'fighting']/175/16 
+cetoddle/False/white/generation-ix/None/base/['ice']/67/12 
+cetitan/False/white/generation-ix/None/final/['ice']/182/45 
+veluza/False/gray/generation-ix/None/no-evolution/['water', 'psychic']/167/25 
+dondozo/False/blue/generation-ix/None/no-evolution/['water']/265/120 
+annihilape/False/gray/generation-ix/None/final/['fighting', 'ghost']/268/12 
+clodsire/False/brown/generation-ix/None/final/['poison', 'ground']/151/18 
+farigiraf/False/brown/generation-ix/None/final/['normal', 'psychic']/260/32 
+kingambit/False/black/generation-ix/None/final/['dark', 'steel']/275/20 
+great-tusk/False/purple/generation-ix/None/no-evolution/['ground', 'fighting']/285/22 
+scream-tail/False/pink/generation-ix/None/no-evolution/['fairy', 'psychic']/285/12 
+brute-bonnet/False/gray/generation-ix/None/no-evolution/['grass', 'dark']/285/12 
+flutter-mane/False/gray/generation-ix/None/no-evolution/['ghost', 'fairy']/285/14 
+slither-wing/False/red/generation-ix/None/no-evolution/['bug', 'fighting']/285/32 
+sandy-shocks/False/gray/generation-ix/None/no-evolution/['electric', 'ground']/285/23 
+iron-treads/False/gray/generation-ix/None/no-evolution/['ground', 'steel']/285/9 
+iron-bundle/False/red/generation-ix/None/no-evolution/['ice', 'water']/285/6 
+iron-hands/False/gray/generation-ix/None/no-evolution/['fighting', 'electric']/285/18 
+iron-jugulis/False/blue/generation-ix/None/no-evolution/['dark', 'flying']/285/13 
+iron-moth/False/yellow/generation-ix/None/no-evolution/['fire', 'poison']/285/12 
+iron-thorns/False/green/generation-ix/None/no-evolution/['rock', 'electric']/285/16 
+frigibax/False/gray/generation-ix/None/base/['dragon', 'ice']/64/5 
+arctibax/False/gray/generation-ix/None/middle/['dragon', 'ice']/148/8 
+baxcalibur/False/gray/generation-ix/None/final/['dragon', 'ice']/300/21 
+gimmighoul/False/brown/generation-ix/None/base/['ghost']/60/3 
+gholdengo/False/yellow/generation-ix/None/final/['steel', 'ghost']/275/12 
+wo-chien/True/brown/generation-ix/None/no-evolution/['dark', 'grass']/285/15 
+chien-pao/True/white/generation-ix/None/no-evolution/['dark', 'ice']/285/19 
+ting-lu/True/brown/generation-ix/None/no-evolution/['dark', 'ground']/285/27 
+chi-yu/True/red/generation-ix/None/no-evolution/['dark', 'fire']/285/4 
+roaring-moon/False/green/generation-ix/None/no-evolution/['dragon', 'dark']/295/20 
+iron-valiant/False/white/generation-ix/None/no-evolution/['fairy', 'fighting']/295/14 
+koraidon/True/red/generation-ix/None/no-evolution/['fighting', 'dragon']/335/25 
+miraidon/True/blue/generation-ix/None/no-evolution/['electric', 'dragon']/335/35 
+walking-wake/False/blue/generation-ix/None/no-evolution/['water', 'dragon']/295/35 
+iron-leaves/False/green/generation-ix/None/no-evolution/['grass', 'psychic']/295/15 
+dipplin/False/green/generation-ix/None/middle/['grass', 'dragon']/170/4 
+poltchageist/False/green/generation-ix/None/base/['grass', 'ghost']/62/1 
+sinistcha/False/green/generation-ix/None/final/['grass', 'ghost']/178/2 
+okidogi/True/black/generation-ix/None/no-evolution/['poison', 'fighting']/278/18 
+munkidori/True/black/generation-ix/None/no-evolution/['poison', 'psychic']/278/10 
+fezandipiti/True/black/generation-ix/None/no-evolution/['poison', 'fairy']/278/14 
+ogerpon/True/green/generation-ix/None/no-evolution/['grass']/275/12 
+archaludon/False/white/generation-ix/None/final/['steel', 'dragon']/300/20 
+hydrapple/False/green/generation-ix/None/final/['grass', 'dragon']/270/18 
+gouging-fire/False/brown/generation-ix/None/no-evolution/['fire', 'dragon']/295/35 
+raging-bolt/False/yellow/generation-ix/None/no-evolution/['electric', 'dragon']/295/52 
+iron-boulder/False/gray/generation-ix/None/no-evolution/['rock', 'psychic']/295/15 
+iron-crown/False/blue/generation-ix/None/no-evolution/['steel', 'psychic']/295/16 
+terapagos/True/blue/generation-ix/None/no-evolution/['normal']/90/2 
+pecharunt/True/purple/generation-ix/None/no-evolution/['poison', 'ghost']/300/3 
